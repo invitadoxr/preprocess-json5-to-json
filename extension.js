@@ -8,7 +8,7 @@ const json5 = require('json5');
  * @param {vscode.ExtensionContext} context
  */
 function activate(context) {
-	console.log('Congratulations, your extension "preprocess json5" is now active!');
+	console.log('Congratulations, your extension "preprocess json5 to json" is now active!');
 
 	
 	let disposableCompile = vscode.commands.registerCommand('extension.compile', function () {

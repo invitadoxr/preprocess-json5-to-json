@@ -1,5 +1,5 @@
 {
-	"name": "preprocess-json5-comments",
+	"name": "preprocess-json5-to-json",
 	"description": "watch/compile commands for transform json5 to json easily",
 	"version": "0.0.1",
 	"publisher": "SV",
